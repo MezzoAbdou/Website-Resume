@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       To visit my singer site click 
-      <a href="https://lindsayvoice.com" target="_blank" rel="noopener">HERE!</a>.
+      <a href="https://lindsayvoice.com" target="_blank" rel="noopener">HERE!!</a>.
     </p>
     <div class="extras">
     <h3>Extras</h3>
